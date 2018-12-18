@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-3.5.1\bin\R" CMD BATCH D:\hw\code\TESTV2.r D:\hw\code\TESTV2_OUT.r
